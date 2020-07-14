@@ -1,5 +1,7 @@
-# Weather-Journal App Project
+## Weather-Journal App Project
 
-## Overview
-This project uses weatherbit.io API and user data to dynamically update the UI. 
+# Overview
+Practice in dynamically updating the UI and asynchronous Web API integration. 
+
+
 
